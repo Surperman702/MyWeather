@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="transparent_75">#ba000000</color>
+    <color name="colorPrimary">#196D9D</color>
+    <color name="colorPrimaryDark">#196D9D</color>
+    <color name="colorAccent">#196D9D</color>
+
+    <color name="app_theme_color">#196D9D</color>
+</resources>
